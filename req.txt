@@ -1,0 +1,5 @@
+Django==2.2.3
+PyQt5==5.13.0
+PyQt5-sip==4.19.18
+pytz==2019.1
+sqlparse==0.3.0
