@@ -19,3 +19,6 @@
 
 # Using Pyinstaller
 # python3 manage.py deploy
+
+# Start Project : 
+# python3 __main__.py
